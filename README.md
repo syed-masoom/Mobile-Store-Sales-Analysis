@@ -51,10 +51,9 @@ Where I specified necessary columns for the sales data of a mobile store and dat
 ![image alt](https://raw.githubusercontent.com/syed-masoom/Sales-Dashboard-Power-Bi/refs/heads/main/Mobile%20Sales%20Dashboard.png)
 
 # 5.  Overall Business Performance
-*	Total Revenue: ₹655.23M
-*	Total Orders: 10,000
-*	Average Rating: 4.0
-*	Total Profit: ₹71.58M
+*	| Total Revenue | Total Orders | Average Rating | Total Profit |
+*	| :---- | :---- | :---- | ----: |
+*	| ₹655.23M | 10,000 | 4.0 | ₹71.58M |
 
 # 6. Mid-Range-Phone Performance
 Mid-Range Phone Segment Performance

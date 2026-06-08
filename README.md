@@ -86,9 +86,6 @@ Sales by Income Level and Purchase Reasons
 
 Across all income groups, Gaming and Features are consistent top priorities.
 So, value-for-money matters more than just affordability.
-
-# Top 10 Best Selling Mid-Range-Phone
-![image alt](C:\Users\masoo\OneDrive\Pictures\Screenshots\Best-Selling-Phone.png)
     
 # Action Plan
 1.	Target customers looking for gaming and feature-rich phones — create banners like:
